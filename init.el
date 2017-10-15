@@ -44,8 +44,8 @@
 ;;
 ;; Evil Mode
 ;;
-(require 'evil)
-(evil-mode 1)
+;;(require 'evil)
+;;(evil-mode 1)
 
 ;;
 ;; Projectile
