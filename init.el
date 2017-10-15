@@ -51,4 +51,5 @@
 ;; Projectile
 ;;
 (require 'projectile)
+(setq projectile-indexing-method 'native)
 (projectile-global-mode)
